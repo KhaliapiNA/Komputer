@@ -1,0 +1,5 @@
+E:\4 Курс\R\Labochku\Komputer\Komputer\bin\Debug\Komputer.exe
+E:\4 Курс\R\Labochku\Komputer\Komputer\bin\Debug\Komputer.pdb
+E:\4 Курс\R\Labochku\Komputer\Komputer\obj\Debug\Komputer.csprojResolveAssemblyReference.cache
+E:\4 Курс\R\Labochku\Komputer\Komputer\obj\Debug\Komputer.exe
+E:\4 Курс\R\Labochku\Komputer\Komputer\obj\Debug\Komputer.pdb
